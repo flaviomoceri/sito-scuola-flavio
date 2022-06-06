@@ -259,6 +259,7 @@ a:focus {
 .about_section a {
   background-color: #6ebca8;
   color: #fefeff;
+  margin-top: 10px;
 }
 
 /* end about section */
@@ -269,6 +270,7 @@ a:focus {
 .admission_section a {
   background-color: #fdd31d;
   color: #fefeff;
+  margin-bottom: 30px;
 }
 
 /* end admission section */
